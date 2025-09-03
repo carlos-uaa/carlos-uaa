@@ -41,7 +41,7 @@
 
 ## 📈 Estadísticas / Stats
 
-![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlos-oss&show_icons=true&theme=radical)
+![Carlos's GitHub Stats](https://github-readme-stats.vercel.app/api?username=carlos-uaa&show_icons=true&theme=radical)
 
 ---
 
