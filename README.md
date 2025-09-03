@@ -48,7 +48,7 @@
 ## 🤝 Conectemos / Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/carlosgomezdev)
-- 📬 `carlos@ingenierocarlos.dev`
+- 📬 `ing.gomez.hernandez.carlos@gmail.com`
 
 ---
 
